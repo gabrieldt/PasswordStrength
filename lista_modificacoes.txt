@@ -1,0 +1,7 @@
+Lista com as modificac?o?es que poderiam ser feitas para melhorar a qualidade do co?digo em cada classe. 
+Classe CheckStrength:
+
+* Nos ÒIFÓ que tem v‡rios argumento com v‡rios Ò||Ó poderia separ‡-los com parenthesis;
+* Os coment‡rios poderiam seguir o padr‹o do javadoc (/** */) ;
+
+
